@@ -2,7 +2,8 @@
 # Todo React App
 
 ## 📸 Скриншот
-![](./images/screenshot.png)
+![](images/screenshot.png)
+
 
 
 ## 🚀 Как да стартираш проекта:
