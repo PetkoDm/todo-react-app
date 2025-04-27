@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo React App
 
 ## 📸 Скриншот
@@ -24,3 +25,6 @@
 - Vite
 - TailwindCSS
 - JSONPlaceholder API
+=======
+# todo-react-app
+>>>>>>> a8aed5899da758413dd570cdd8bcd3fa2d180bd9
