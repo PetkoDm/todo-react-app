@@ -2,7 +2,7 @@
 # Todo React App
 
 ## 📸 Скрийншот
-![](images/screenshot.png)
+![](images/screenshot.PNG)
 
 
 
