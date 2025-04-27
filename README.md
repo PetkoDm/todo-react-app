@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Todo React App
 
-## 📸 Скриншот
+## 📸 Скрийншот
 ![](images/screenshot.png)
 
 
